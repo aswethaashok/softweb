@@ -745,7 +745,8 @@ person.html
 
 ## OUTPUT
 
-![Screenshot 2024-04-24 204214](https://github.com/aswethaashok/softweb/assets/149987410/561e23a0-2149-424d-9880-0fa01aa751aa)
+![image](https://github.com/aswethaashok/softweb/assets/149987410/56d6844e-e8ac-4dd6-938c-4da6f067b3bd)
+
 
 ![Screenshot 2024-04-24 204853](https://github.com/aswethaashok/softweb/assets/149987410/38377d65-4c1b-495d-bcc5-38de65e23a30)
 
